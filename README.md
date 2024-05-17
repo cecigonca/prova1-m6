@@ -16,7 +16,7 @@ Caso seja necessário instala-los, opte por seguir os passos indicados nesses li
 ### Execução
 1. Clone esse repositório no seu computador. Para isso, você deve abrir o terminal, navegar até onde gostaria que o repositório fosse clonado e colar o seguinte comando:
 
-   ```git clone https://github.com/cecigonca/ponderada-turtlesim.git```
+   ```git clone https://github.com/cecigonca/prova1-m6.git```
 
 2. Ainda em seu terminal, navegue até o diretório correto:
 
